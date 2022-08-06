@@ -18,3 +18,15 @@ REST-Rant is an app where users can review restaurants.
 | POST | `/places/:id/rant` | Create a rant (comment) about a particular place |
 | DELETE | `/places/:id/rant/:rantId` | Delete a rant (comment) about a particular place |
 | GET | `*` | 404 page (matches any route not defined above) |
+
+## Planning
+
+### User Stories
+
+As a restaurant customer I need  so I can ____(action)____
+
+### Color Scheme
+
+**Primary Color:** #F1FFFA
+**Secondary Color:** #93B7BE
+**Highlight Color:** #D5C7BC
