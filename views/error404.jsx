@@ -8,10 +8,10 @@ function error404() {
         <h1>404: PAGE NOT FOUND</h1>
         <p>Oops, sorry, we can't find this page!</p>
         <div>
-            <img src="\images\404page.jpg" alt="storm trooper lego in the dessert" />
+            <img src="\images\404page.jpg" alt="Kitten" />
             <div>
-              Photo by <a href="https://unsplash.com/@danielkcheung">Daniel K Cheung</a> on{" "}
-              <a href="https://unsplash.com/photos/cPF2nlWcMY4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Unsplash</a>
+              Photo by <a href="https://placekitten.com/500/500">Place Kitten</a> on{" "}
+              <a href="https://placekitten.com/500/500">PlaceKitten</a>
               </div>
               </div>
       </main>
