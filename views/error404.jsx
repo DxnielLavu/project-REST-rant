@@ -8,7 +8,7 @@ function error404() {
         <h1>404: PAGE NOT FOUND</h1>
         <p>Oops, sorry, we can't find this page!</p>
         <div>
-            <img src="\images\404page.jpg" alt="Kitten" />
+            <img src="https://placekitten.com/500/500" alt="Kitten" />
             <div>
               Photo by <a href="https://placekitten.com/500/500">Place Kitten</a> on{" "}
               <a href="https://placekitten.com/500/500">PlaceKitten</a>

@@ -9,7 +9,7 @@ function home() {
         <div>
           <img src="https://placekitten.com/500/500" alt="Kitten" />
           <div>
-            Photo by <a href="https://unsplash.com/@sadswim">Place Kitten</a> on{" "}
+            Photo by <a href="https://placekitten.com/500/500">Place Kitten</a> on{" "}
             <a href="https://placekitten.com/500/500">PlaceKitten</a>
           </div>
         </div>
@@ -18,7 +18,7 @@ function home() {
         </a>
       </main>
     </Def>
-  );
+  )
 }
 
-module.exports = home;
+module.exports = home
