@@ -1,9 +1,8 @@
 // Modules and Globals
+require('dotenv').config({ path: './.env'});
 const express = require('express')
 const methodOverride = require('method-override')
 const app = express()
-const path = require('path');
-require('dotenv').config({ path: path.resolve(__dirname, './.env') });
 
 // Express Settings
 app.set('view engine', 'jsx')
